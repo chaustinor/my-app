@@ -1,0 +1,12 @@
+Clean up project
+Add to github
+Azure
+routing
+real time chart
+
+JEST / enzyme / Jasmine / Mocha / Chai
+LESS / SASS css pre-processors
+
+//Testing
+//Enzyme provides testing utility functions for react components: shallow, mount and render
+//Jest is a test runner and an assertion library
